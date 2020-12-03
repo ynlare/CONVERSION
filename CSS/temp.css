@@ -1,0 +1,20 @@
+body{
+background-color:green;
+
+}
+
+.container{
+background-color:#EFA;
+width: 1400px;
+text-align: center;
+    padding : 80px;
+    height: 550px;
+    float: right;
+    margin-top: 25px;
+padding-top: 25px ;
+padding-right:25px ;
+padding-bottom: 25;
+padding-left: 100px ;
+margin-left: 25px ;
+font-family: 'Texturina', serif;
+}
