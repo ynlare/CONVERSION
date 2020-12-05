@@ -1,6 +1,5 @@
 body{
 background-color:green;
-
 }
 
 .container{
@@ -13,8 +12,16 @@ text-align: center;
     margin-top: 25px;
 padding-top: 25px ;
 padding-right:25px ;
-padding-bottom: 25;
+padding-left: 25px;
 padding-left: 100px ;
 margin-left: 25px ;
 font-family: 'Texturina', serif;
+}
+
+.result{
+    background-color: white;
+    padding-top: 25px ;
+height: 30px;
+position: relative; top:20px;
+
 }
