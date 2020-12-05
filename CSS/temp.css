@@ -15,8 +15,9 @@ padding-right:25px ;
 padding-left: 25px;
 padding-left: 100px ;
 margin-left: 25px ;
-font-family: 'Texturina', serif;
-}
+
+font-family: 'Dancing Script', cursive;}
+
 
 .result{
     background-color: white;
@@ -25,3 +26,5 @@ height: 30px;
 position: relative; top:20px;
 
 }
+
+.inputKG{ color:red}
